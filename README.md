@@ -1,5 +1,7 @@
 # IHM-project
 
+projet réalisé par : Hajar Laatioui , Anas Hammoucha .
+
 Introduction :
 Ce code est écrit en Java et utilise l'IDE NetBeans. Il comprend des fonctions pour afficher, mettre à jour et supprimer des données d'une base de données MySQL. Le code récupère les données de la base de données et les affiche dans un JTable, et permet à l'utilisateur de sélectionner une ligne et de visualiser/mettre à jour/supprimer les données de cette ligne.
 
